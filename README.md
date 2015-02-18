@@ -22,7 +22,7 @@
 ## Purpose
   * Help customers (the “user”) to analyze and understand the Atmel maXTouch firmware image (.fw file).
   * This tool is intended for *Atmel internal and external customers*.
-  * [Screenshot](/images/screen0.png)
+  * ![Screenshot](/images/screen0.png)
 
 ## Requirement
   * [Hex Editor Neo Professional or Ultimate] (http://www.hhdsoftware.com/hex-editor).
