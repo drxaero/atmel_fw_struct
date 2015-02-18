@@ -20,17 +20,19 @@
 </table>
 
 ## Purpose
-  * Help customers (the “user”) to analyze and understand the Atmel maXTouch firmware image (.fw file).
-  * This tool is intended for *Atmel internal and external customers*.
+- Help customers (the “user”) to analyze and understand the Atmel maXTouch firmware image (.fw file).
+- This tool is intended for *Atmel internal and external customers*.
+- Screenshots
+  - screenshot0 ![Screenshot0](/images/screen0.png)
 
 ## Requirement
-  * Hex Editor Neo Professional or Ultimate (http://www.hhdsoftware.com/hex-editor).
+- [Hex Editor Neo Professional or Ultimate] (http://www.hhdsoftware.com/hex-editor).
 
 ## Installation
-  * Copy this file to "C:\Program Files\HHD Software\Hex Editor Neo\Sample Structures\".
-  * Go to Hex Editor Neo.
-  * Tool/Structure Viewer/Library/Add Structure File.../
+- Copy this file to "C:\Program Files\HHD Software\Hex Editor Neo\Sample Structures\".
+- Go to Hex Editor Neo.
+- Tool/Structure Viewer/Library/Add Structure File.../
 
 ## Support
-  * Janus Cheng (drxaero@gmail.com)
+- Janus Cheng (drxaero@gmail.com)
     
