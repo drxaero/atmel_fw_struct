@@ -1,4 +1,4 @@
-# Binary File Strcture Descriptor of Atmel maXTouch firmware (.fw) for Hex Editor Neo
+# File Strcture Descriptor of Atmel maXTouch Firmware (.fw) for Hex Editor Neo
 
 ## What's New
 <table>
@@ -26,7 +26,7 @@
   - screenshot0 ![Screenshot0](/images/screen0.png)
 
 ## Requirement
-- [Hex Editor Neo Professional or Ultimate] (http://www.hhdsoftware.com/hex-editor).
+- [Hex Editor Neo](http://www.hhdsoftware.com/hex-editor) Professional or Ultimate edition.
 
 ## Installation
 - Copy this file to "C:\Program Files\HHD Software\Hex Editor Neo\Sample Structures\".
@@ -35,4 +35,4 @@
 
 ## Support
 - Janus Cheng (drxaero@gmail.com)
-    
+
